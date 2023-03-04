@@ -183,7 +183,7 @@ main .item img:hover,
 main h2,
 .full-item h2,
 main p,
-.full-item p main b,
+.full-item p, main b,
 .full-item b {
     margin: 10px 20px;
     color: #333;
