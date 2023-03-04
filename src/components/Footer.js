@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <footer>
-        Все права защищены &copy;
+        S1xthRose 2023. Все права защищены &copy;
     </footer>
     )
 }
